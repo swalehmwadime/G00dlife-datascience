@@ -47,7 +47,7 @@ Ensure you have the following prerequisites installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/data-science-project.git
+git clone https://github.com/swalehmwadime/DS1.git
 cd data-science-project
 ```
 
