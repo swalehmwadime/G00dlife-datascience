@@ -1,5 +1,4 @@
 
-
 # Data Science Project Repository
 
 ## Project Overview
@@ -20,9 +19,18 @@ Welcome to the Data Science Project Repository! This repository serves as a comp
    - [4. Model Building](#4-model-building)
    - [5. Model Evaluation](#5-model-evaluation)
    - [6. Deployment](#6-deployment)
-5. [Dataset](#dataset)
-6. [Contributing](#contributing)
-7. [License](#license)
+5. [Machine Learning Projects](#machine-learning-projects)
+   - [Random Forest](#random-forest)
+   - [Logistic Regression](#logistic-regression)
+   - [Ridge and Lasso Regression](#ridge-and-lasso-regression)
+   - [ElasticNet](#elasticnet)
+   - [Naive Bayes](#naive-bayes)
+   - [Decision Tree](#decision-tree)
+   - [Convolutional Neural Networks (CNN)](#convolutional-neural-networks-cnn)
+   - [Artificial Neural Networks (ANN)](#artificial-neural-networks-ann)
+6. [Dataset](#dataset)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## Introduction
 
@@ -114,6 +122,56 @@ Brief description of what this notebook covers.
 
 Brief description of what this notebook covers.
 
+## Machine Learning Projects
+
+### Random Forest
+
+[Link to notebook]
+
+Description of the Random Forest project.
+
+### Logistic Regression
+
+[Link to notebook]
+
+Description of the Logistic Regression project.
+
+### Ridge and Lasso Regression
+
+[Link to notebook]
+
+Description of the Ridge and Lasso Regression project.
+
+### ElasticNet
+
+[Link to notebook]
+
+Description of the ElasticNet project.
+
+### Naive Bayes
+
+[Link to notebook]
+
+Description of the Naive Bayes project.
+
+### Decision Tree
+
+[Link to notebook]
+
+Description of the Decision Tree project.
+
+### Convolutional Neural Networks (CNN)
+
+[Link to notebook]
+
+Description of the CNN project.
+
+### Artificial Neural Networks (ANN)
+
+[Link to notebook]
+
+Description of the ANN project.
+
 ## Dataset
 
 Describe the dataset used in the project and provide download links if applicable.
@@ -125,6 +183,5 @@ We welcome contributions! If you find any issues or have suggestions, feel free 
 ## License
 
 This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
-
----
+```
 
