@@ -55,8 +55,9 @@ Ensure you have the following prerequisites installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/swalehmwadime/DS1.git
-cd data-science-project
+
+git clone https://github.com/swalehmwadime/G00dlife-datascience
+
 ```
 
 Install the required dependencies:
