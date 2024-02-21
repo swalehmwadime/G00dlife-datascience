@@ -174,7 +174,7 @@ Description of the CNN project.
 Description of the ANN project.
 
 ## Dataset
-
+Data acqusitiont; kaggle,data.gov,Google Dataset Search,OpenML. 
 Describe the dataset used in the project and provide download links if applicable.
 
 ## Contributing
