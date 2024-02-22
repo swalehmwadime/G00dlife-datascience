@@ -183,6 +183,6 @@ We welcome contributions! If you find any issues or have suggestions, feel free 
 
 ## License
 
-This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT] - see the [LICENSE.md](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
 ```
 
