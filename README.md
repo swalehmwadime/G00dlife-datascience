@@ -179,7 +179,7 @@ Describe the dataset used in the project and provide download links if applicabl
 
 ## Contributing
 
-We welcome contributions! If you find any issues or have suggestions, feel free to open an [issue](link-to-issues) or submit a [pull request](link-to-pull-requests).
+We welcome contributions! If you find any issues or have suggestions, feel free to open an [issue](https://github.com/swalehmwadime/G00dlife-datascience/issues) or submit a [pull request](link-to-pull-requests).
 
 ## License
 
