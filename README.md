@@ -179,10 +179,10 @@ Describe the dataset used in the project and provide download links if applicabl
 
 ## Contributing
 
-We welcome contributions! If you find any issues or have suggestions, feel free to open an [issue](link-to-issues) or submit a [pull request](link-to-pull-requests).
+We welcome contributions! If you find any issues or have suggestions, feel free to open an [issue](https://github.com/swalehmwadime/G00dlife-datascience/issues) or submit a [pull request](https://github.com/swalehmwadime/G00dlife-datascience/pulls).
 
 ## License
 
-This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT-licence] - see the [LICENSE.md](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
 ```
 
