@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Welcome to the Data Science Project Repository! This repository serves as a comprehensive guide for anyone interested in learning and applying data science from scratch. Whether you are a beginner or an experienced data scientist, this project aims to provide a structured and hands-on approach to various data science concepts and techniques.
+This repository is a comprehensive guide for anyone interested in learning and applying data science from scratch. Whether you are a beginner or an experienced data scientist, this project aims to provide a structured and hands-on approach to various data science concepts and techniques.
 
 ## Table of Contents
 
