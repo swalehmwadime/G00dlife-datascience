@@ -36,6 +36,20 @@ The project consists of analyzing sales data to uncover trends, patterns, and in
 9. **Sales Channel Analysis**: Analyze sales across different channels to understand channel performance and customer preferences.
 10. **Forecasting**: Use historical sales data to forecast future sales and revenue for better resource planning.
 
+
+## Additional Resources
+- **Sample Video Tutorial**: [Master Power BI in 10 Minutes](https://www.youtube.com/watch?v=NNSHu0rkew8) - video tutorial to help you master Power BI.
+
+
+
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
+
+
+
+
+
+
+
+
 
