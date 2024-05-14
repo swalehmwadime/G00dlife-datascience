@@ -42,7 +42,7 @@ This repository is designed to guide you through the various stages of a typical
 
 Ensure you have the following prerequisites installed:
 
-- Python (version 3.x)
+- Python (version 3.12)
 - Jupyter Notebooks
 - Pandas
 - NumPy
