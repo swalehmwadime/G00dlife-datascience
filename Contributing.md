@@ -8,7 +8,7 @@ We appreciate your interest in contributing.
 We welcome contributions in the form of bug fixes, enhancements, feature implementations, documentation improvements, and more. To contribute to this project, follow these steps:
 
 ### 1. Fork the Repository
-![Forking the Repository](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Data%20Analytics/photos/fork1.png)
+![Forking the Repository](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Data%20Analytics/Visualisations/fork1.png)
 
 
 
