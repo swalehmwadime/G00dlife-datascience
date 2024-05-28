@@ -1,5 +1,5 @@
 
-# Configuring Virtual Environment for Jupyter Notebooks in Visual Studio Code
+# Virtual Environment for Jupyter Notebooks in Visual Studio Code
 
 This guide will help you set up a virtual environment for Jupyter Notebooks in Visual Studio Code. Using a virtual environment ensures that your project dependencies are isolated from other projects and system-wide packages.
 
@@ -8,6 +8,7 @@ This guide will help you set up a virtual environment for Jupyter Notebooks in V
 - [Visual Studio Code](https://code.visualstudio.com/) installed on your system.
 - Python installed on your system.
 - You can as well install anaconda from [here](https://www.anaconda.com/)
+- Before you start coding ensure you have configured your virtual environment.
   
 
 ## Steps
@@ -38,7 +39,7 @@ This guide will help you set up a virtual environment for Jupyter Notebooks in V
    In the terminal, run the following command to create a virtual environment (replace `myenv` with the name you want for your virtual environment):
 
    ```
-   python3 -m venv myenv
+   conda create -m myvenv
    ```
 
 8. **Activate the Virtual Environment**:
