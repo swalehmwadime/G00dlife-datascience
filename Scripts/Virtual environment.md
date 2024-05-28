@@ -19,20 +19,21 @@ This guide will help you set up a virtual environment for Jupyter Notebooks in V
 2. **Install Python Extension**:
 
    Inside VSCode, install the Python extension by Microsoft. This extension provides support for Python development in Visual Studio Code, including debugging, linting, IntelliSense, code navigation, code formatting, and more.
+   ![Python extension in VSCode](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/pythoN-extension.png)
 
-3. **Create a New Folder for Your Project**:
+4. **Create a New Folder for Your Project**:
 
    Create a new folder on your system where you want to store your Jupyter Notebooks and associated files.
 
-4. **Open the Folder in VSCode**:
+5. **Open the Folder in VSCode**:
 
    Open Visual Studio Code and navigate to the newly created folder using the File > Open Folder option.
 
-5. **Open a Terminal in VSCode**:
+6. **Open a Terminal in VSCode**:
 
    Press `Ctrl+`` to open the integrated terminal in VSCode. This terminal will be used to run commands.
 
-6. **Create a Virtual Environment**:
+7. **Create a Virtual Environment**:
 
    In the terminal, run the following command to create a virtual environment (replace `myenv` with the name you want for your virtual environment):
 
@@ -40,7 +41,7 @@ This guide will help you set up a virtual environment for Jupyter Notebooks in V
    python3 -m venv myenv
    ```
 
-7. **Activate the Virtual Environment**:
+8. **Activate the Virtual Environment**:
 
    Depending on your operating system, activate the virtual environment:
 
@@ -56,7 +57,7 @@ This guide will help you set up a virtual environment for Jupyter Notebooks in V
      source myenv/bin/activate
      ```
 
-8. **Install Jupyter Notebooks**:
+9. **Install Jupyter Notebooks**:
 
    While the virtual environment is active, install Jupyter Notebooks using pip:
 
@@ -64,7 +65,7 @@ This guide will help you set up a virtual environment for Jupyter Notebooks in V
    pip install jupyter
    ```
 
-9. **Launch Jupyter Notebooks**:
+10. **Launch Jupyter Notebooks**:
 
    To launch Jupyter Notebooks, run the following command in the terminal:
 
@@ -72,11 +73,11 @@ This guide will help you set up a virtual environment for Jupyter Notebooks in V
    jupyter notebook
    ```
 
-10. **Create or Open a Notebook**:
+11. **Create or Open a Notebook**:
 
     In the Jupyter Notebook interface that opens in your default web browser, you can create a new notebook or open an existing one.
 
-11. **Start Coding**:
+12. **Start Coding**:
 
     You can now start coding in your Jupyter Notebook environment within VSCode.
 
