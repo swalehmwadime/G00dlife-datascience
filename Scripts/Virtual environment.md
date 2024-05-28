@@ -1,5 +1,5 @@
 
-# Setting up Virtual Environment for Jupyter Notebooks in Visual Studio Code
+# Configuring Virtual Environment for Jupyter Notebooks in Visual Studio Code
 
 This guide will help you set up a virtual environment for Jupyter Notebooks in Visual Studio Code. Using a virtual environment ensures that your project dependencies are isolated from other projects and system-wide packages.
 
