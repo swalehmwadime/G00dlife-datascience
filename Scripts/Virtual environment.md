@@ -7,6 +7,8 @@ This guide will help you set up a virtual environment for Jupyter Notebooks in V
 
 - [Visual Studio Code](https://code.visualstudio.com/) installed on your system.
 - Python installed on your system.
+- You can as well install anaconda from [here](https://www.anaconda.com/)
+  
 
 ## Steps
 
