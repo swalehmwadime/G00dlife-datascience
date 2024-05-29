@@ -20,7 +20,7 @@ This repository is a comprehensive guide for anyone interested in learning and a
    - [5. Model Evaluation](#5-model-evaluation)
    - [6. Deployment](#6-deployment)
 5. [Machine Learning Projects](#machine-learning-projects)
-   - [Random Forest](#random-forest)
+   - [Random Forest](https://colab.research.google.com/drive/1E6SUVg0U7JzkikkXCPIlSVaSuG_Ma1iL#scrollTo=n4JCAoOGYOkh)
    - [Logistic Regression](#logistic-regression)
    - [Ridge and Lasso Regression](#ridge-and-lasso-regression)
    - [ElasticNet](#elasticnet)
