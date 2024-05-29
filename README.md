@@ -24,7 +24,7 @@ This repository is a comprehensive guide for anyone interested in learning and a
    - [Logistic Regression](https://colab.research.google.com/drive/1eZP7a6Ss1m9yAcpXjqYbclJ1qX34zpaN#scrollTo=0AiNqv2LrSKU)
    - [Ridge and Lasso Regression](#ridge-and-lasso-regression)
    - [ElasticNet](#elasticnet)
-   - [Naive Bayes](#naive-bayes)
+   - [Bayes Theory](https://colab.research.google.com/drive/1ePDoO5bz1TSkbC6r5f4xjivqTV0xLI2O#scrollTo=0dSMlEx3KoL4)
    - [Decision Tree](#decision-tree)
    - [Convolutional Neural Networks (CNN)](#convolutional-neural-networks-cnn)
    - [Artificial Neural Networks (ANN)](#artificial-neural-networks-ann)
