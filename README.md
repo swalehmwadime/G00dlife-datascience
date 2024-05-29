@@ -26,7 +26,7 @@ This repository is a comprehensive guide for anyone interested in learning and a
    - [ElasticNet](#elasticnet)
    - [Bayes Theory](https://colab.research.google.com/drive/1ePDoO5bz1TSkbC6r5f4xjivqTV0xLI2O#scrollTo=0dSMlEx3KoL4)
    - [Decision Tree](#decision-tree)
-   - [Convolutional Neural Networks (CNN)](#convolutional-neural-networks-cnn)
+   - [Convolutional Neural Networks (CNN)](https://colab.research.google.com/drive/11oTKn-_DsMX5716Esg9wMTO4Mkr5l6Su#scrollTo=DyJ2w63lXWQX)
    - [Artificial Neural Networks (ANN)](#artificial-neural-networks-ann)
 6. [Dataset](#dataset)
 7. [Contributing](#contributing)
