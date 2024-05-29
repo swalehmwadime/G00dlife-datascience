@@ -21,7 +21,7 @@ This repository is a comprehensive guide for anyone interested in learning and a
    - [6. Deployment](#6-deployment)
 5. [Machine Learning Projects](#machine-learning-projects)
    - [Random Forest](https://colab.research.google.com/drive/1E6SUVg0U7JzkikkXCPIlSVaSuG_Ma1iL#scrollTo=n4JCAoOGYOkh)
-   - [Logistic Regression](#logistic-regression)
+   - [Logistic Regression](https://colab.research.google.com/drive/1eZP7a6Ss1m9yAcpXjqYbclJ1qX34zpaN#scrollTo=0AiNqv2LrSKU)
    - [Ridge and Lasso Regression](#ridge-and-lasso-regression)
    - [ElasticNet](#elasticnet)
    - [Naive Bayes](#naive-bayes)
