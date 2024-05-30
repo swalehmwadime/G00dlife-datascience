@@ -25,8 +25,3 @@ The introductory part includes sample projects to help you get started with deep
 
 For detailed instructions and explanations, refer to the individual README files in each project folder.
 
-## Contributing
-
-We welcome contributions to this repository! If you have any suggestions, improvements, or additional projects to add, please feel free to fork this repository and submit a pull request.
-
-Happy learning!
