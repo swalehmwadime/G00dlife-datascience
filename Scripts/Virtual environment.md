@@ -20,7 +20,7 @@ This guide will help you set up a virtual environment for Jupyter Notebooks in V
 2. **Install Python Extension**:
 
    Inside VSCode, install the Python extension by Microsoft. This extension provides support for Python development in Visual Studio Code, including debugging, linting, IntelliSense, code navigation, code formatting, and more.
-   ![Python extension in VSCode](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/pythoN-extension.png)
+   ![Python extension in VSCode](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Data%20Analytics/pythoN-extension.png)
 
 4. **Create a New Folder for Your Project**:
 
