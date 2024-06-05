@@ -2,7 +2,7 @@
 `Docker is a platform for developing,shipping and running applications.` It provides a way to package applications and their dependencies into standardized units called containers. These containers can then be deployed across different environments, whether it's a developer's laptop, a testing environment, or a production server, with consistent behavior regardless of the underlying infrastructure.
 
 ## Key Concepts in Docker
-![Docker snap](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Data%20Analytics/docker1.png)
+![Docker snap](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Scripts/Docker/docker1.png)
 
 ### 1. Container
 A lightweight, standalone, and executable package that includes everything needed to run a piece of software, including the code, runtime, libraries, and dependencies. Containers are isolated from each other and from the host system.
@@ -46,7 +46,7 @@ docker ps
 ```sh
 docker ps -a
 ```
-
+![docker ps -a](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Scripts/Docker/docker%20ps%20-a.png)
 ## Working with Docker Images and Containers
 
 ### Pulling a Docker Image
@@ -58,7 +58,7 @@ Example:
 ```sh
 docker pull nginx:1.27
 ```
-
+![docker pull](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Scripts/Docker/docker%20pull.png)
 ### Creating and Running a Container
 To create and run a container from an image:
 ```sh
@@ -68,7 +68,7 @@ Example:
 ```sh
 docker run nginx:1.27
 ```
-
+![docker run](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Scripts/Docker/docker%20run.png)
 To run a container in detached mode (in the background):
 ```sh
 docker run -d <image-name>:<version/tag>
@@ -100,6 +100,7 @@ Example:
 docker run -d -p 80:80 nginx:1.27
 ```
 Access the container on `localhost:80`.
+![docker run](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Scripts/Docker/docker%20port.png)
 
 ## Image Versioning
 Docker images can have multiple versions or tags. It is important to specify the correct version when pulling or running an image. The default version is usually `latest` if no version is specified.
@@ -110,7 +111,7 @@ For demonstration purposes, you can use the Nginx web server:
 docker pull nginx:1.27
 docker run -d -p 80:80 nginx:1.27
 ```
-Access the web server at [http://localhost](http://localhost).
+Access the web server at ![http://localhost](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Scripts/Docker/ngix%20port.png).
 
 ## Important Links
 
