@@ -119,3 +119,6 @@ Access the web server at [http://localhost](http://localhost).
 - **When to Use Docker Containers:** [When to Use Docker](https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/4-how-docker-containers-work)
 - **Summary/Overview:** [Docker Documentation](https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/6-summary)
 
+## Additional Resources
+Learn [Docker](https://www.youtube.com/watch?v=pg19Z8LL06w) in less than an hour. Video
+
