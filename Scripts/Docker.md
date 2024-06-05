@@ -2,6 +2,7 @@
 `Docker is a platform for developing,shipping and running applications.` It provides a way to package applications and their dependencies into standardized units called containers. These containers can then be deployed across different environments, whether it's a developer's laptop, a testing environment, or a production server, with consistent behavior regardless of the underlying infrastructure.
 
 ## Key Concepts in Docker
+![Docker snap](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Data%20Analytics/docker1.png)
 
 ### 1. Container
 A lightweight, standalone, and executable package that includes everything needed to run a piece of software, including the code, runtime, libraries, and dependencies. Containers are isolated from each other and from the host system.
