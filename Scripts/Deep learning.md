@@ -19,9 +19,9 @@ The introductory part includes sample projects to help you get started with deep
    - [README](Introductory-Part/Projects/Project2_Sequencing/README.md)
 
 3. **Generative Models**
-   - [Notebook](Introductory-Part/Projects/Project3_Generative_Models/notebook.ipynb)
-   - [Dataset](Introductory-Part/Projects/Project3_Generative_Models/dataset/)
-   - [README](Introductory-Part/Projects/Project3_Generative_Models/README.md)
+   - [Notebook](https://colab.research.google.com/drive/19iajxQ8XZuNodxQ4B4PFomp_44oeMGg0#scrollTo=OAOQh6ghUToj)
+   - [Dataset](https://en.wikipedia.org/wiki/MNIST_database)
+   - [README](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Scripts/Deep%20Learning/Generative%20Model.md)
 
 For detailed instructions and explanations, refer to the individual README files in each project folder.
 
