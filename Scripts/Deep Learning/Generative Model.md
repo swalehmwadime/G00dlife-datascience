@@ -47,11 +47,13 @@ The Adversarial Network consists of two neural networks:
 ## Results
 
 Generated images and training metrics are displayed during the training process. The final images should resemble handwritten digits.
+![Generated Images](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Scripts/Deep%20Learning/Generative%20images.png)
 
 ## References
 
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 - [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
-
+  
+![handwritten images](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Scripts/Deep%20Learning/Handwritten-Images.png)
 ---
 
