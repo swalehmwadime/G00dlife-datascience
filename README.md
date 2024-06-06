@@ -43,11 +43,11 @@ This repository is designed to guide you through the various stages of a typical
 Ensure you have the following prerequisites installed:
 
 - [Python](https://www.python.org/) (version 3.12)
-- Jupyter Notebooks
-- Pandas
+- [Jupyter Notebooks](https://jupyter.org/)
+- [Pandas](https://pandas.pydata.org/)
 - [NumPy](https://numpy.org/)
-- Matplotlib
-- Scikit-learn
+- [Matplotlib](https://matplotlib.org/)
+- [Anaconda](https://www.anaconda.com/download)
 - [Additional libraries as needed]
 
 ### Installation
