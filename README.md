@@ -97,5 +97,3 @@ Describe the dataset used in the project and provide download links if applicabl
 or submit a [pull request](https://github.com/swalehmwadime/G00dlife-datascience/pulls). <br>
 
 ---
-## licence
-This project is licenced under [MIT Licence](https://github.com/swalehmwadime/NLP-Beginners-guide?tab=MIT-1-ov-file#readme) .
