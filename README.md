@@ -95,3 +95,7 @@ Describe the dataset used in the project and provide download links if applicabl
 - Check [Contributing.md](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md) for guidlines on how to contribute.<br>
 - We welcome contributions! If you find any issues or have suggestions, feel free to open an [issue](https://github.com/swalehmwadime/G00dlife-datascience/issues) 
 or submit a [pull request](https://github.com/swalehmwadime/G00dlife-datascience/pulls). <br>
+
+---
+## licence
+This project is licenced under [MIT Licence](https://github.com/swalehmwadime/NLP-Beginners-guide?tab=MIT-1-ov-file#readme) .
