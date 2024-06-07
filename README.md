@@ -96,6 +96,6 @@ Check [Contributing.md](https://github.com/swalehmwadime/G00dlife-datascience/bl
 
 ## License
 
-This project is licensed under the MIT-licence - see the [LICENSE.md](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
+This project is licensed under the MIT-licence - see the [LICENSE.md](https://github.com/swalehmwadime/NLP-Beginners-guide/edit/main/LICENSE) file for details.
 
 
