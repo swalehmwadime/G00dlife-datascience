@@ -92,9 +92,9 @@ data-science-project/
 Describe the dataset used in the project and provide download links if applicable.
 
 ## Contributing
-We welcome contributions! If you find any issues or have suggestions, feel free to open an [issue](https://github.com/swalehmwadime/G00dlife-datascience/issues) or submit a [pull request](https://github.com/swalehmwadime/G00dlife-datascience/pulls). <br>
-Check [Contributing.md](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md) for guidlines on how to contribute.
-
+- Check [Contributing.md](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md) for guidlines on how to contribute.<br>
+- We welcome contributions! If you find any issues or have suggestions, feel free to open an [issue](https://github.com/swalehmwadime/G00dlife-datascience/issues) 
+or submit a [pull request](https://github.com/swalehmwadime/G00dlife-datascience/pulls). <br>
 ## License
 
 This project is licensed under the MIT-licence - see the [LICENSE.md](https://github.com/swalehmwadime/NLP-Beginners-guide/edit/main/LICENSE) file for details.
