@@ -48,6 +48,7 @@ Ensure you have the following prerequisites installed:
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Anaconda](https://www.anaconda.com/download)
+- [Vscode](https://code.visualstudio.com/download)
 - [Additional libraries as needed]
 
 ### [Installation](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md)
