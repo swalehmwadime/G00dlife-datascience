@@ -1,7 +1,7 @@
 
-# <u>Contributing Documentation</u>
+# <u>Contributing Guidelines</u>
 
-We appreciate your interest in contributing. 
+We are really excited that you are about to contribute to the [G00dlife-datascience](https://github.com/swalehmwadime/G00dlife-datascience) repository. If this is your first time contributing please continue reading to learn how to make the most meaningful and useful impact possible. 
 
 ## How to Contribute
 
