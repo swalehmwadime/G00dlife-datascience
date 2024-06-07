@@ -42,8 +42,6 @@ The project consists of analyzing sales data to uncover trends, patterns, and in
 
 
 
-## Contributing
-Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
 
 
 
