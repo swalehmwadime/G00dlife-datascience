@@ -50,7 +50,7 @@ Ensure you have the following prerequisites installed:
 - [Anaconda](https://www.anaconda.com/download)
 - [Additional libraries as needed]
 
-### Installation
+### [Installation](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md)
 
 Clone the repository to your local machine:
 
