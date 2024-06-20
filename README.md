@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This repository is a comprehensive guide for anyone interested in learning and applying data science from scratch. Whether you are a beginner or an experienced data scientist, this project aims to provide a structured and hands-on approach to various data science concepts and techniques.
+- `G00dlife Data-Science repository` is a comprehensive guide for anyone interested in learning and applying data science from scratch. Whether you are a beginner or an experienced data scientist, this project aims to provide a structured and hands-on approach to various data science concepts and techniques.
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ This repository is a comprehensive guide for anyone interested in learning and a
 
 ## Introduction 
 
-This repository is designed to guide you through the various stages of a typical data science project. It covers fundamental concepts such as data exploration, cleaning, feature engineering, model building, evaluation, and even deployment. Each section is accompanied by Jupyter notebooks that provide hands-on examples and exercises.
+The repository is designed to guide you through the various stages of a typical data science project. It covers fundamental concepts such as data exploration, cleaning, feature engineering, model building, evaluation, and even deployment. Each section is accompanied by Jupyter notebooks that provide hands-on examples and exercises.
 
 ## Getting Started
 
