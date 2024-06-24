@@ -14,7 +14,7 @@ We release patches for security vulnerabilities. The following table describes t
 If you discover a security vulnerability, we appreciate your help in disclosing it to us in a responsible manner. Please follow the steps below to report a vulnerability:
 
 1. **Do not open an issue on GitHub.** This will make the vulnerability public and could put users at risk.
-2. Send an email to [maintainers of this repo](mwadimeswaleh@gmail.com) with the subject line "Security Vulnerability Report".
+2. Send an email to [maintainers of this repo](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) with the subject line "Security Vulnerability Report".
 3. In your email, please include:
    - A description of the vulnerability.
    - Steps to reproduce the issue.
@@ -36,6 +36,6 @@ We recommend that all users keep their installations up to date with the latest 
 
 ## Contact
 
-For any other security-related inquiries, please contact us at [Gmail.com](mwadimeswaleh@gmail.com).
+For any other security-related inquiries, please contact us on [Linkedin](https://www.linkedin.com/in/swaleh-mwadime/).
 
 Thank you for helping to keep our project secure!
