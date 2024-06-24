@@ -96,4 +96,7 @@ Describe the dataset used in the project and provide download links if applicabl
 - We welcome contributions! If you find any issues or have suggestions, feel free to open an [issue](https://github.com/swalehmwadime/G00dlife-datascience/issues) 
 or submit a [pull request](https://github.com/swalehmwadime/G00dlife-datascience/pulls). <br>
 
+
+## Licence 
+- This repository is licenced under [Apache-2.0](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/LICENSE) ,refer to the LICENCE.md for more details.
 ---
