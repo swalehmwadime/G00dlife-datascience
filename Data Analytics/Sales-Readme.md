@@ -20,7 +20,7 @@ Unzip the file after downloading
 4. Select the downloaded .csv file from your local machine and click 'Load' to import the data into Power BI.
 
 ### Project Structure
-- **Data_Analytics_with_Power_BI.pbix**: Power BI file containing the project dashboard and visualizations.
+- **[Data_Analytics_with_Power_BI.pbix](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Data%20Analytics/Data_Analytics_with_Power_BI.pbit)**: Power BI file containing the project dashboard and visualizations.
 - **amazon.csv**: Dataset file containing the Amazon sales data.
 
 ## Project Overview
