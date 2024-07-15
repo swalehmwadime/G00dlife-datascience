@@ -33,9 +33,7 @@
 8. [License](#license)
 
 ## Introduction 
-
-The repository is designed to guide you through the various stages of a typical data science project. It covers fundamental concepts such as data exploration, cleaning, feature engineering, model building, evaluation, and even deployment. Each section is accompanied by Jupyter notebooks that provide hands-on examples and exercises.
-
+Data Science is essentially the study of data.It encompasses a range of fundamental concepts and steps to transform raw data into valuable insights and actionable information.
 ## Getting Started
 
 ### Prerequisites
