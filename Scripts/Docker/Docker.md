@@ -100,7 +100,15 @@ Example:
 docker run -d -p 80:80 nginx:1.27
 ```
 Access the container on `localhost:80`.
-![docker run](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Scripts/Docker/docker%20port.png)
+![docker run](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Scripts/Docker/docker%20port.png) 
+
+- You can as well open the webpage on localhost:9000
+```sh
+docker run -d -p 9000:80 nginx:1.27
+```
+
+###
+
 
 ## Image Versioning
 Docker images can have multiple versions or tags. It is important to specify the correct version when pulling or running an image. The default version is usually `latest` if no version is specified.
