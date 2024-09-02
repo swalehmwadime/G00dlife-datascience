@@ -13,6 +13,7 @@
 - [Python dictionaries](https://colab.research.google.com/drive/1eChT6rzU2V9uXZcgn6eFCkpUBdikW8hJ)
 - [Python Lists](https://colab.research.google.com/drive/1MDECaZ4FApc51UbrTgm_LxZ_422-Xlc5)
 - [Python essentials](https://colab.research.google.com/drive/1pQNlL-mOQTHTxuchUhS4YSdH8NQQIDoh)
+- [Generative models](https://colab.research.google.com/drive/19iajxQ8XZuNodxQ4B4PFomp_44oeMGg0)
 
   
   
