@@ -25,7 +25,7 @@
    - [Ridge and Lasso Regression](#ridge-and-lasso-regression)
    - [ElasticNet](#elasticnet)
    - [Bayes Theory](https://colab.research.google.com/drive/1ePDoO5bz1TSkbC6r5f4xjivqTV0xLI2O#scrollTo=0dSMlEx3KoL4)
-   - [Decision Tree](#decision-tree)
+   - [Decision Tree](https://colab.research.google.com/drive/1b6QTAaPerHGlT1NC4uV4v7w3I2bA0kgo#scrollTo=cf7bKZIZIXVA)
    - [Convolutional Neural Networks (CNN)](https://colab.research.google.com/drive/11oTKn-_DsMX5716Esg9wMTO4Mkr5l6Su#scrollTo=DyJ2w63lXWQX)
    - [Artificial Neural Networks (ANN)](#artificial-neural-networks-ann)
 6. [Dataset](#dataset)
