@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-- `G00dlife Data-Science repository` is a comprehensive guide for anyone interested in learning and applying data science from scratch.
+- This is a comprehensive guide for anyone interested in learning and applying data science from scratch.
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -32,7 +32,7 @@
 8. [License](#license)
 
 ## Introduction 
-Data Science is essentially the study of data.It has a range of fundamental concepts and steps to transform raw data into valuable insights and actionable information.
+Data Science is essentially the study of data. We will be transforming raw data into valuable insights and actionable information.
 ## Getting Started
 
 ### Prerequisites
@@ -51,12 +51,8 @@ Ensure you have the following prerequisites installed:
 ### [Installation](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md)
 
 Clone the repository to your local machine:
+Refer to [this file](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md) for details on how to install 
 
-```bash
-
-git clone https://github.com/swalehmwadime/G00dlife-datascience
-
-```
 
 Install the required dependencies:
 
