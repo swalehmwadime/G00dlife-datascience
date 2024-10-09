@@ -12,21 +12,12 @@
    - [Installation](#installation)
 3. [Project Structure](#project-structure)
 4. [Notebooks](#notebooks)
-   - [1. Data Exploration](#1-data-exploration)
-   - [2. Data Cleaning](#2-data-cleaning)
-   - [3. Feature Engineering](#3-feature-engineering)
-   - [4. Model Building](#4-model-building)
-   - [5. Model Evaluation](#5-model-evaluation)
-   - [6. Deployment](#6-deployment)
 5. [Machine Learning Projects](#machine-learning-projects)
    - [Random Forest](https://colab.research.google.com/drive/1E6SUVg0U7JzkikkXCPIlSVaSuG_Ma1iL#scrollTo=n4JCAoOGYOkh)
    - [Logistic Regression](https://colab.research.google.com/drive/1eZP7a6Ss1m9yAcpXjqYbclJ1qX34zpaN#scrollTo=0AiNqv2LrSKU)
-   - [Ridge and Lasso Regression](#ridge-and-lasso-regression)
-   - [ElasticNet](#elasticnet)
    - [Bayes Theory](https://colab.research.google.com/drive/1ePDoO5bz1TSkbC6r5f4xjivqTV0xLI2O#scrollTo=0dSMlEx3KoL4)
    - [Decision Tree](https://colab.research.google.com/drive/1b6QTAaPerHGlT1NC4uV4v7w3I2bA0kgo#scrollTo=cf7bKZIZIXVA)
-   - [Convolutional Neural Networks (CNN)](https://colab.research.google.com/drive/11oTKn-_DsMX5716Esg9wMTO4Mkr5l6Su#scrollTo=DyJ2w63lXWQX)
-   - [Artificial Neural Networks (ANN)](#artificial-neural-networks-ann)
+   - [Convolutional Neural Networks (CNN)](https://colab.research.google.com/drive/11oTKn-_DsMX5716Esg9wMTO4Mkr5l6Su#scrollTo=DyJ2w63lXWQX)   
 6. [Dataset](#dataset)
 7. [Contributing](#contributing)
 8. [License](#license)
@@ -65,7 +56,7 @@ pip install -r requirements.txt
 The repository is organized as follows:
 
 ```
-data-science-project/
+G00dlife-datascience/
 |-- notebooks/
 |-- data/
 |-- scripts/
