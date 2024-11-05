@@ -65,7 +65,7 @@ G00dlife-datascience/
 |-- requirements.txt
 ```
 
-- **notebooks:** All the notebooks in this repository are located [here](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Notebook_links.md).
+- **Notebooks:** <b>All the notebooks in this repository are located [here](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Notebook_links.md).</b>
 - **data:** Placeholder for datasets used in the project.
 - **scripts:** Any utility scripts or helper functions.
 - **models:** Saved models or model artifacts.
