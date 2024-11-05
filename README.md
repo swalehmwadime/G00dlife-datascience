@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-- This is a comprehensive guide for anyone interested in learning and applying data science from scratch.
+- Comprehensive guide for anyone interested in learning and applying data science from scratch.
 ## Table of Contents
 
 1. [Introduction](#introduction)
