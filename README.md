@@ -9,9 +9,9 @@
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
-   - [Installation](#installation)
+   - [Installation](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md)
 3. [Project Structure](#project-structure)
-4. [Notebooks](#notebooks)
+4. [Notebooks](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Notebook_links.md)
 5. [Machine Learning Projects](#machine-learning-projects)
    - [Random Forest](https://colab.research.google.com/drive/1E6SUVg0U7JzkikkXCPIlSVaSuG_Ma1iL#scrollTo=n4JCAoOGYOkh)
    - [Logistic Regression](https://colab.research.google.com/drive/1eZP7a6Ss1m9yAcpXjqYbclJ1qX34zpaN#scrollTo=0AiNqv2LrSKU)
@@ -20,7 +20,7 @@
    - [Convolutional Neural Networks (CNN)](https://colab.research.google.com/drive/11oTKn-_DsMX5716Esg9wMTO4Mkr5l6Su#scrollTo=DyJ2w63lXWQX)   
 6. [Dataset](#dataset)
 7. [Contributing](#contributing)
-8. [License](#license)
+8. [License](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/LICENSE)
 
 ## Introduction 
 Data Science is essentially the study of data. We will be transforming raw data into valuable insights and actionable information.
@@ -66,15 +66,7 @@ G00dlife-datascience/
 ```
 
 - **Notebooks:** <b>All the notebooks in this repository are located [here](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Notebook_links.md).</b>
-- **data:** Placeholder for datasets used in the project.
-- **scripts:** Any utility scripts or helper functions.
-- **models:** Saved models or model artifacts.
 
-  
-
-## Dataset
-
-You will get descriptions of dataset used in the project as well as download links if applicable.
 
 ## Contributing
 - Check [Contributing.md](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md) for guidlines on how to contribute.<br>
