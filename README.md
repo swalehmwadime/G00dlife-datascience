@@ -41,10 +41,6 @@ Ensure you have the following prerequisites installed:
 
 ### [Installation](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md)
 
-Clone the repository to your local machine:
-Refer to [this file](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md) for details on how to install 
-
-
 Install the required dependencies:
 
 ```bash
