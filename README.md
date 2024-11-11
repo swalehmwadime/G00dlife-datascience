@@ -37,6 +37,7 @@ Ensure you have the following prerequisites installed:
 - [Matplotlib](https://matplotlib.org/)
 - [Anaconda](https://www.anaconda.com/download)
 - [Vscode](https://code.visualstudio.com/download)
+- We shall be using [Google colab](https://colab.google/) for this repo
 - [Additional libraries as needed]
 
 ### [Installation](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md)
