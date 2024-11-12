@@ -63,7 +63,7 @@ G00dlife-datascience/
 ```
 
 - **Notebooks:** <b>All the notebooks in this repository are located [here](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Notebook_links.md).</b>
-
+- **Scripts:** <b>Project write ups and necessary documents [here](https://github.com/swalehmwadime/G00dlife-datascience/tree/main/Scripts)
 
 ## Contributing
 - Check [Contributing.md](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md) for guidlines on how to contribute.<br>
