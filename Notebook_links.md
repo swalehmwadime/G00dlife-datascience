@@ -16,16 +16,16 @@
 | [Data Exploration](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Notebooks/Data_Exploaration.ipynb)        | Basic data exploration notebook             | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IajsTHBlKDXTQ5pRa8m8CcfGTGbkOokG)                                 |
 
 
-
-
-
 **Machine Learning Notebooks**
 
-- [Bayesian Theorem](https://colab.research.google.com/drive/1ePDoO5bz1TSkbC6r5f4xjivqTV0xLI2O)
-- [Random Forest](https://colab.research.google.com/drive/1E6SUVg0U7JzkikkXCPIlSVaSuG_Ma1iL)
-- [Convolution Neural Network](https://colab.research.google.com/drive/11oTKn-_DsMX5716Esg9wMTO4Mkr5l6Su#scrollTo=DyJ2w63lXWQX)
-- [Logistic Regression](https://colab.research.google.com/drive/1eZP7a6Ss1m9yAcpXjqYbclJ1qX34zpaN#scrollTo=0AiNqv2LrSKU)
-- [Decision Tree](https://colab.research.google.com/drive/1b6QTAaPerHGlT1NC4uV4v7w3I2bA0kgo#scrollTo=cf7bKZIZIXVA)
-- [Generative models](https://colab.research.google.com/drive/19iajxQ8XZuNodxQ4B4PFomp_44oeMGg0)
 
-  
+| Notebook     | Description            |                               |
+|-------------|--------------------|--------------------------------------------|
+| [Bayesian Theorem](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Notebooks/Bayesian_Theorem.ipynb)          | probability and statistics | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ePDoO5bz1TSkbC6r5f4xjivqTV0xLI2O)                                |
+| [Random Forest](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Notebooks/Random_Forest.ipynb)           |  commonly used for both classification and regression tasks.|   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E6SUVg0U7JzkikkXCPIlSVaSuG_Ma1iL)  | 
+| [Logistic Regression](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Notebooks/Logistic_Regression.ipynb)           | | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eZP7a6Ss1m9yAcpXjqYbclJ1qX34zpaN#scrollTo=0AiNqv2LrSKU)                                   |
+| [Convolution Neural Network](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Notebooks/Convolution_Neural_Network.ipynb)           |  |   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11oTKn-_DsMX5716Esg9wMTO4Mkr5l6Su#scrollTo=DyJ2w63lXWQX)                                         |
+| [Generative models](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Scripts/Deep%20Learning/Generative_model%20(1).ipynb)        |               | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19iajxQ8XZuNodxQ4B4PFomp_44oeMGg0)           |
+| Decision Tree        |  It is structured as a tree-like model of decisions for classification and regression tasks                  |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b6QTAaPerHGlT1NC4uV4v7w3I2bA0kgo#scrollTo=cf7bKZIZIXVA)                              |
+
+
