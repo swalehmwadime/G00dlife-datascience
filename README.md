@@ -64,8 +64,7 @@ G00dlife-datascience/
 
 - **Notebooks:** <b>All the notebooks in this repository are located [here](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Notebook_links.md).</b>
 - **Scripts:** <b>Project write ups and necessary documents [here](https://github.com/swalehmwadime/G00dlife-datascience/tree/main/Scripts)
-- **Introduction Python Exercise** <b>Exercises for intro to python [here](https://colab.research.google.com/drive/1eLem7h6zmmqa0UKoAgtV_0v0aAJi3fEA?authuser=0#scrollTo=HfR4zYkH9zjJ)
-
+- **Introduction to Python Exercise:** <a href="https://colab.research.google.com/drive/1eLem7h6zmmqa0UKoAgtV_0v0aAJi3fEA?authuser=0#scrollTo=HfR4zYkH9zjJ" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 ## Contributing
 - Check [Contributing.md](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md) for guidlines on how to contribute.<br>
 - If you find any issues or have suggestions, feel free to open an [issue](https://github.com/swalehmwadime/G00dlife-datascience/issues) 
