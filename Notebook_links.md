@@ -28,4 +28,7 @@
 | [Generative models](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Scripts/Deep%20Learning/Generative_model%20(1).ipynb)        | machine learning model that can generate new data instances that are similar to the training data.              | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19iajxQ8XZuNodxQ4B4PFomp_44oeMGg0)           |
 | Decision Tree        |  It is structured as a tree-like model of decisions for classification and regression tasks                  |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b6QTAaPerHGlT1NC4uV4v7w3I2bA0kgo#scrollTo=cf7bKZIZIXVA)                              |
 
-
+**Introduction to Python Exercises**
+- Try solving each exercise before checking the solution <br>
+[Python Exercises](https://colab.research.google.com/drive/1eLem7h6zmmqa0UKoAgtV_0v0aAJi3fEA) <br>
+[Solutions-Introduction to python exercises](https://colab.research.google.com/drive/1M_v7d84JxX4RMj61kNhNEf34tpaFKNnh#scrollTo=Y28E8Sr3DZfi)
