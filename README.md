@@ -42,12 +42,6 @@ Ensure you have the following prerequisites installed:
 
 ### [Installation](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md)
 
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Project Structure
 
 The repository is organized as follows:
