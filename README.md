@@ -23,7 +23,7 @@
 8. [License](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/LICENSE)
 
 ## Introduction 
-Data Science is essentially the study of data. We will be transforming raw data into valuable insights and actionable information.
+Data Science is essentially the study of data. 
 ## Getting Started
 
 ### Prerequisites
