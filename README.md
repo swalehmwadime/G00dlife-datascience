@@ -12,15 +12,9 @@
    - [Installation](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md)
 3. [Project Structure](#project-structure)
 4. [Notebooks](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Notebook_links.md)
-5. [Machine Learning Projects](#machine-learning-projects)
-   - [Random Forest](https://colab.research.google.com/drive/1E6SUVg0U7JzkikkXCPIlSVaSuG_Ma1iL#scrollTo=n4JCAoOGYOkh)
-   - [Logistic Regression](https://colab.research.google.com/drive/1eZP7a6Ss1m9yAcpXjqYbclJ1qX34zpaN#scrollTo=0AiNqv2LrSKU)
-   - [Bayes Theory](https://colab.research.google.com/drive/1ePDoO5bz1TSkbC6r5f4xjivqTV0xLI2O#scrollTo=0dSMlEx3KoL4)
-   - [Decision Tree](https://colab.research.google.com/drive/1b6QTAaPerHGlT1NC4uV4v7w3I2bA0kgo#scrollTo=cf7bKZIZIXVA)
-   - [Convolutional Neural Networks (CNN)](https://colab.research.google.com/drive/11oTKn-_DsMX5716Esg9wMTO4Mkr5l6Su#scrollTo=DyJ2w63lXWQX)   
-6. [Dataset](#dataset)
-7. [Contributing](#contributing)
-8. [License](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/LICENSE)
+5.  [Contributing](#contributing)
+6. [License](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/LICENSE)
+  
 
 ## Introduction 
 Data Science is essentially the study of data. 
@@ -38,7 +32,7 @@ Ensure you have the following prerequisites installed:
 - [Anaconda](https://www.anaconda.com/download)
 - [Vscode](https://code.visualstudio.com/download)
 - We shall be using [Google colab](https://colab.google/) for this repo
-- [Additional libraries as needed]
+- Additional libraries as needed
 
 ### [Installation](https://github.com/swalehmwadime/G00dlife-datascience/blob/main/Contributing.md)
 
