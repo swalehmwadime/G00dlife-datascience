@@ -3,7 +3,7 @@
 <a href="https://colab.research.google.com/drive/1r4-o2mMRvXwmvKiDNLuE-SsvrJgyxi_g#scrollTo=7mjGtqJmZxgW" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 ## Project Overview
 
-- This Repository is a guide for anyone interested in learning and applying data science from scratch.
+- This repository is for beginners interested in learning and applying data science from scratch.
 ## Table of Contents
 
 1. [Introduction](#introduction)
